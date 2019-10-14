@@ -1,0 +1,21 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "WebRTC code samples",
+	"scope" : "/webrtc-samples/src/content/getusermedia/gum/",
+	"display" : "standalone",
+	"start_url" : "https://huynhtuanhuy.github.io/webrtc-samples/src/content/getusermedia/gum/",
+	"short_name" : "getUserMedia",
+	"theme_color" : "#ffffff",
+	"description" : "WebRTC code samples",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://huynhtuanhuy.github.io/webrtc-samples/src/content/getusermedia/gum/../../../images/webrtc-icon-192x192.png",
+			"sizes": "192x192"
+		}],
+	"generated" : "true"
+}
